@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Autonomy-Loop
 market scan
+=======
+# Autonomy Loop
+
+>>>>>>> df3cd0d (Initial commit of local directory contents)
 This repository contains an example implementation of a fully autonomous
 revenue generation engine. The system continuously scans the market for
 trending topics, synthesizes them into product offers and exposes a
@@ -142,4 +147,8 @@ offer generation prompt templates or replace the frontend with your own UI.
 ---
 
 This project serves as a foundation for building autonomous AI-driven
+<<<<<<< HEAD
 businesses. Adapt and extend it to fit your own workflows and models.
+=======
+businesses. Adapt and extend it to fit your own workflows and models.
+>>>>>>> df3cd0d (Initial commit of local directory contents)

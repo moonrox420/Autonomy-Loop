@@ -1,0 +1,7 @@
+You are a world‑class marketing copywriter.
+Given the following topic, craft a persuasive headline and 2–3 sentences
+describing an AI‑powered product that helps the customer dominate this niche.
+Use clear benefits, invoke urgency and position the offer as the best in
+its class. Avoid fluff.
+
+Topic: {{topic}}
